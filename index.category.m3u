@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay (macrolanguage)" tvg-logo="https://i.imgur.com/mX1nnGy.png" tvg-country="MY" tvg-url="" group-title="Entertainment",KIX
+http://210.210.155.35/uq2663/h/h07/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/322_300.png" tvg-country="HK" tvg-url="" group-title="Movies",Celestial Movies
+http://210.210.155.35/qwr9ew/s/s33/index.m3u8
